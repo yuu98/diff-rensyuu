@@ -1,2 +1,2 @@
 # diff-rensyuu
-変更Staging用1st
+変更用2nd
