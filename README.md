@@ -1,2 +1,2 @@
 # diff-rensyuu
-変更用2nd
+rebase用ブランチで更新
